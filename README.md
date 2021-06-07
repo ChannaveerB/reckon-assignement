@@ -31,3 +31,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 npm install -g json-server   //command to install the JSON Server
 
 json-server --watch db.json   //command to Run the JSON server
+
+## Login Credentials
+Please use the below mentioned login credentials only othere than this it won't allow you to login
+
+email: channu@email.com
+password: Password@123
